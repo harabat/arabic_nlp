@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+seaborn==0.11.2
+pandas==1.4.1
+farasapy==0.0.11
+Django==4.0.2
+farasa==0.0.1
+nltk==3.7
+spacy==3.2.2
